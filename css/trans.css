@@ -6,7 +6,7 @@ body {
   
 
 header {
-    background-color: #eed635; /* Verde */
+    background-color: #eed635; 
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -37,7 +37,7 @@ li {
 }
 
 a {
-    color: blueviolet; /* Verde */
+    color: blueviolet; 
     text-decoration: none;
 }
 
