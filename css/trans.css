@@ -1,0 +1,53 @@
+body {
+    background-image: url("../img/pattern.jpg");
+    background-size: 30%;
+    color: white;
+  }
+  
+
+header {
+    background-color: #eed635; /* Verde */
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+a {
+    color: blueviolet; /* Verde */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#transacciones {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+}

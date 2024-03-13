@@ -5,3 +5,9 @@
 .text-pokemon-nav {
     color: #24508b;
 }
+body {
+    background-image: url("../img/pattern.jpg");
+    background-size: 30%;
+    color: white;
+  }
+  
